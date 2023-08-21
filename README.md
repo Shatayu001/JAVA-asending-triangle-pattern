@@ -1,3 +1,5 @@
+\\JAVA asending triangle pattern
+
 public class Main {
     public static void main(String[] args) {
         int i,j,k,n = 20; 
